@@ -1,7 +1,7 @@
+> ⚠️   veuillez noter que le service est actuellement en cours de développement. Nous vous encourageons donc à [nous contacter](mailto:contact@api2hub.com) si vous envisagez de collaborer.
+
 # **Api2Hub - Plateforme de partage d'API sécurisée**
 Api2Hub est une plateforme de partage d'API sécurisée qui facilite la gestion des abonnements de vos utilisateurs pour vos services API.
-
-> Le développement du service est en cours et nous vous encourageons à [nous contacter](mailto:contact@api2hub.com) si vous avez l'intention de collaborer.
 
 ## **👀 Caractéristiques principales**
 
@@ -35,6 +35,9 @@ Notre équipe de sécurité travaille constamment pour maintenir les plus hauts 
 
 En plus de ces mesures de sécurité, nous fournissons également une surveillance de sécurité continue et des mises à jour régulières pour garantir que nos systèmes restent à jour avec les dernières pratiques de sécurité de l'industrie. Vous pouvez avoir l'esprit tranquille en sachant que votre contenu est protégé avec Api2Hub.
 
-## **📨 Contact**
+## **📨 Contact / 📎 Links**
 
-[contact@api2hub.com](mailto:contact@api2hub.com)
+- [contact@api2hub.com](mailto:contact@api2hub.com)
+- [site web](https://api2hub.com/)
+- [organisation github](https://github.com/api2hub)
+- [twitter](https://twitter.com/api2hub)
