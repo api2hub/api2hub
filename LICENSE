@@ -3,7 +3,7 @@ Version 1.0, avril 2023
 
 Droit d'auteur (c) [2023] Benoit Petit, contact@api2hub.com
 
-Permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), ainsi que tous les autres projets logiciels créés et développés par l'organisation Api2Hub sur GitHub (les "Projets"), d'utiliser le Logiciel et les Projets sans restriction, y compris, sans limitation, les droits d'utilisation, de copie, de modification, de fusion, de publication, de distribution, de sous-licence et/ou de vente de copies du Logiciel et des Projets, et de permettre aux personnes à qui le Logiciel et les Projets sont fournis de le faire, sous réserve des conditions suivantes :
+Cette licence concède aux destinataires le droit de modifier et de distribuer les projets hébergé sous l'organisation api2hub sur GitHub, à condition que les conditions suivantes soient remplies :
 
 1. La notice de droit d'auteur ci-dessus et cette permission doivent être incluses dans toutes les copies ou portions substantielles du Logiciel et des Projets.
 
@@ -11,8 +11,8 @@ Permission est accordée, gratuitement, à toute personne obtenant une copie de 
 
 3. Sauf autorisation expresse par écrit, le nom de Api2Hub ne doit pas être utilisé pour promouvoir la vente, l'utilisation ou d'autres activités liées au Logiciel et aux Projets sans autorisation préalable spécifique et écrite.
 
-4. Vous pouvez choisir de changer la licence du Logiciel et des Projets à tout moment en modifiant le fichier de licence. Toute modification apportée à la licence ne sera applicable qu'aux versions ultérieures du Logiciel et des Projets.
+4. Api2Hub ou Benoit Petit ce donne le droit de changer la licence du Logiciel et des Projets à tout moment en modifiant le fichier de licence. Toute modification apportée à la licence ne sera applicable qu'aux versions ultérieures du Logiciel et des Projets.
 
-5. Le Logiciel et les Projets ne peuvent être modifiés ou partagés sans autorisation expresse par écrit.
+5. Restriction de la modification et de la distribution : Aucun projet hébergé sous l'organisation api2hub sur GitHub ne peut être modifié ou distribué sans une autorisation écrite préalable.
 
 En utilisant le Logiciel et les Projets, vous acceptez les termes et conditions de cette licence.
