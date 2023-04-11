@@ -1,3 +1,5 @@
+🌐 [Read the English version](README_EN.md)
+
 > ⚠️   veuillez noter que le service est actuellement en cours de développement. Nous vous encourageons donc à [nous contacter](mailto:contact@api2hub.com) si vous envisagez de collaborer.
 
 # **Api2Hub - Plateforme de partage d'API sécurisée**
@@ -46,3 +48,6 @@ En plus de ces mesures de sécurité, nous fournissons également une surveillan
 - Ce projet est sous licence Apache 2.0.
 - Copyright (c) 2023 Benoit Petit contact@api2hub.com
 - Le texte complet de la licence est disponible dans le fichier [LICENSE](https://github.com/api2hub/api2hub/blob/main/LICENSE).
+
+## **🌐 Traduction**
+- Cette page est également disponible en [anglais](README_EN.md).
