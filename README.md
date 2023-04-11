@@ -41,3 +41,8 @@ En plus de ces mesures de sécurité, nous fournissons également une surveillan
 - [site web](https://api2hub.com/)
 - [organisation github](https://github.com/api2hub)
 - [twitter](https://twitter.com/api2hub)
+
+## **📃 Licence**
+- Ce projet est sous licence Apache 2.0.
+- Copyright (c) 2023 Benoit Petit contact@api2hub.com
+- Le texte complet de la licence est disponible dans le fichier [LICENSE](https://github.com/api2hub/api2hub/blob/main/LICENSE).
