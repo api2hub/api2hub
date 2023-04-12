@@ -32,6 +32,17 @@ Our security team is constantly working to maintain the highest levels of securi
 
 In addition to these security measures, we also provide continuous security monitoring and regular updates to ensure that our systems remain up to date with the latest security industry practices. You can rest assured that your content is protected with Api2Hub.
 
+## **💚 Supporting Api2Hub**
+
+If you're interested in supporting Api2Hub, there are a few ways you can help:
+
+- Spread the word: Tell your friends and colleagues about Api2Hub and the benefits it offers. Share our platform on social media and encourage others to join our active API community.
+- Collaborate with us: If you have expertise in API development or subscription management, we would love to collaborate with you. Contact us to discuss potential partnerships and how we can work together to improve our services.
+- Make a donation: Api2Hub relies on the support of our users to maintain our secure and reliable platform. If you appreciate our services and would like to contribute, you can make a donation through our website.
+- Provide feedback: We value the feedback of our users and are always looking for ways to improve our platform. If you have any suggestions or comments, please let us know through our feedback form or by contacting our support team.
+
+By supporting Api2Hub, you can help us continue to provide exceptional API services and foster a collaborative and secure community for developers around the world. 💚💚
+
 ## **📩 Contact / 📎 Links**
 - [contact@api2hub.com](mailto:contact@api2hub.com)
 - [web site](https://api2hub.com/)
