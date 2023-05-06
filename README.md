@@ -56,6 +56,7 @@ En soutenant Api2Hub, vous pouvez nous aider à continuer à fournir des service
 - [site web](https://api2hub.com/)
 - [organisation github](https://github.com/api2hub)
 - [twitter](https://twitter.com/api2hub)
+- [mastodon](https://mastodon.social/@api2hub)
 
 ## **📃 Licence**
 - Ce projet est sous licence Apache 2.0.
