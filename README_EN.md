@@ -48,6 +48,8 @@ By supporting Api2Hub, you can help us continue to provide exceptional API servi
 - [web site](https://api2hub.com/)
 - [organisation github](https://github.com/api2hub)
 - [twitter](https://twitter.com/api2hub)
+- [mastodon](https://mastodon.social/@api2hub)
+
 ## **📃 License**
 - This project is licensed under the Apache 2.0 license.
 - Copyright (c) 2023 Benoit Petit contact@api2hub.com
